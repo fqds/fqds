@@ -6,13 +6,13 @@ For the past year I have also been building my own algorithmic trading stack end
 
 ### Stack
 
-**Go** Gin, Fiber, gRPC, concurrent services
-**Python** FastAPI, Django, Pandas, NumPy, TensorFlow
-**Data** PostgreSQL, Redis, Kafka, MySQL
-**Infra** Docker, Linux (self-managed VPS), Nginx, GitLab CI
+**Go** Gin, Fiber, gRPC, concurrent services  
+**Python** FastAPI, Django, Pandas, NumPy, TensorFlow  
+**Data** PostgreSQL, Redis, Kafka, MySQL  
+**Infra** Docker, Linux (self-managed VPS), Nginx, GitLab CI  
 
 ### Contact
 
-Email: fr3es7y13@gmail.com
-LinkedIn: [dmitry-khusnetdinov](https://www.linkedin.com/in/dmitry-khusnetdinov-6bb6a5372/)
-Telegram: [@fqdss](https://t.me/fqdss)
+Email: fr3es7y13@gmail.com  
+LinkedIn: [dmitry-khusnetdinov](https://www.linkedin.com/in/dmitry-khusnetdinov-6bb6a5372/)  
+Telegram: [@fqdss](https://t.me/fqdss)  
